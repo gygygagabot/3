@@ -1,6 +1,4 @@
 <html>
-<title></title>
-
 <body>
     <header>
     <h1>Розповідь про гру Undertale</h1>
